@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    background-color: black;
+}
+
+#tituloPrincipal {
+    text-align: center;
+    color: lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    margin-top: 1em;
+    margin-bottom: 1.5em;
+    border-bottom-style: dotted;
+}
+
+.mainSection {
+    background-color: lightgrey;
+    text-align: justify;
+    margin: 1em;
+    padding-top: 1em;
+    border-width: 0.2em;
+    border-color: brown;
+    border-style: solid;
+}
+
+.mainSection:first-child{
+    font-size: 10em;
+}
+
+#primeraSeccion p{
+    font-size: medium;
+    font-size: large;
+}
+
+#segundaSeccion {
+    font-size: large;
+    font-style: oblique;
+}
+
+footer {
+    background-color: blueviolet;
+    border-color: coral;
+    border-style: dashed;
+    text-align: center;
+    font-size: 1.5em;
+
+}
+
